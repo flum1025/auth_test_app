@@ -1,0 +1,8 @@
+query query {
+  test1 {
+    id
+  }
+  test2 {
+    id
+  }
+}

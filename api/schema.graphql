@@ -1,0 +1,16 @@
+# GraphQL schema example
+#
+# https://gqlgen.com/getting-started/
+
+type Query {
+  test1: Test1
+  test2: Test2
+}
+
+type Test1 {
+  id: String!
+}
+
+type Test2 {
+  id: String!
+}
